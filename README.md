@@ -12,3 +12,6 @@ instalar os requirements.txt com o comando
 pip install -r requirements.txt
 
 link de referência para quem não conhece nada de python https://www.youtube.com/watch?v=Q2d8VTkRVPU
+
+caso persista algum erro de falta de pacotes, no pycharm, você pode ir em FILE>SETTINGS,
+procurar por python interpreter e ir adicionando a lista "pacotes" que apresentam erro/faltando.
