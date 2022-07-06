@@ -7,9 +7,9 @@ import keyboard
 import win32api, win32con
 import pydirectinput
 import numpy
-import opencv-python
-import PyYAML
-import mss
+#import opencv-python
+#import PyYAML
+#import mss
 startou = 0
 time.sleep(1)
 def moused():
